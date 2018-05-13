@@ -9,7 +9,7 @@
 
 ---
 
-# AAndroid-Toast1
+# Android-Toast1
 > 範例程式碼下載點：[按這裡](https://github.com/thishkt/Android-DemoToast1/archive/master.zip)
 
 > 影片教學：：[按這裡](http://bit.ly/2HAmyCS)
